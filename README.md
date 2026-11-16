@@ -1,59 +1,59 @@
-# Password-Cracking-Week3
-Practical exercise demonstrating password recovery using John the Ripper (JtR) and Johnny, exploring password hashes and password-cracking techniques in a controlled environment.
 
-# Password Cracking using JTR and Johnny
+# Password Cracking Using John the Ripper (JtR) and Johnny
 
 ## Overview
-As part of Week 3 of my Cybersecurity Internship, I performed a practical exercise on recovering the password of a password-protected PDF file using John the Ripper (JTR) and Johnny.
+
+This repository documents my Week 3 practical work during my Cybersecurity Internship at **Networkwalks**. The task focused on understanding password security and performing a password recovery exercise on a password-protected PDF file using John the Ripper and Johnny.
 
 ## Objective
-To understand how password recovery works using password hashes and learn to use John the Ripper and Johnny.
+
+To understand how password hashes work, learn the basics of password-cracking tools, and perform password recovery in a controlled environment.
 
 ## Tools Used
-- John the Ripper (JTR)
-- Johnny
-- Password-protected PDF file
-- PDF hash extraction tool
 
-## Practical Implementation
+1. **John the Ripper (JtR)** – Used for password recovery.
+2. **Johnny** – Graphical interface for John the Ripper.
+3. **PDF Hash Extraction Tool** – Used to extract the hash from a password-protected PDF file.
+4. **Networkwalks Hash Calculator** – Used to calculate and understand hash values.
+5. **Networkwalks Password Cracker** – Explored as an additional password-cracking tool.
 
-### Step 1: Installation
-Installed John the Ripper (JTR) and Johnny on the system.
+## Practical Workflow
 
-### Step 2: Configuration
-Configured the environment by setting the path of John the Ripper in the JTR setup.
-
-### Step 3: Hash Extraction
-Extracted the hash value from the password-protected PDF file for further processing.
-
-### Step 4: Password Recovery
-Used the extracted hash value with John the Ripper to perform the password recovery process.
-
-### Step 5: Password Extraction
-Successfully recovered the password of the locked PDF file.
+1. Installed John the Ripper.
+2. Installed Johnny.
+3. Configured the John the Ripper path in the setup.
+4. Extracted the hash value from a password-protected PDF file.
+5. Used John the Ripper and Johnny to perform the password recovery process.
+6. Successfully recovered the PDF password.
+7. Explored the Networkwalks Hash Calculator to understand hash generation.
+8. Also explored the Networkwalks Password Cracker.
 
 ## Key Learnings
-- Installation and configuration of John the Ripper.
-- Understanding password hashes.
+
+- Understanding password hashes and their role in password security.
+- Learning how John the Ripper works.
+- Installing and configuring John the Ripper and Johnny.
 - Extracting hashes from password-protected PDF files.
-- Using John the Ripper for password recovery.
-- Understanding the role of Johnny in password recovery.
-- Learning how weak passwords can be vulnerable to cracking techniques.
+- Understanding the password recovery process.
+- Exploring hash calculation and password-cracking tools.
 
 ## Screenshots
 
-Screenshots of the practical implementation are included in this repository to demonstrate the process and successful password recovery.
+Screenshots of the practical work are included in the `screenshots` folder.
+
+## Ethical Considerations
+
+All activities were performed for educational purposes in a controlled environment. Password recovery should only be performed on files or systems for which permission has been granted.
 
 ## Conclusion
-Successfully completed a practical password recovery exercise using John the Ripper and Johnny. This exercise provided hands-on experience with hash extraction, tool configuration, and password recovery techniques.
 
----
+This practical exercise helped me understand password hashes, PDF hash extraction, and password recovery using John the Ripper and Johnny. I also explored the Networkwalks Hash Calculator and Password Cracker as additional learning tools.
 
 ## Author
 
 **Mukta Ramdasi**
 
-- **Program:** Networkwalks Cybersecurity Internship
-- **LinkedIn:** [Mukta Ramdasi](https://linkedin.com/in/mukta-ramdasi-605350335)
+Cybersecurity Intern – Networkwalks
 
+[LinkedIn Profile](https://linkedin.com/in/mukta-ramdasi-605350335)
 
