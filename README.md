@@ -49,7 +49,11 @@ Successfully completed a practical password recovery exercise using John the Rip
 
 ---
 
-**Internship:** Cybersecurity Internship  
-**Organization:** Networkwalks  
-**Week:** 03
+## Author
+
+**Mukta Ramdasi**
+
+- **Program:** Networkwalks Cybersecurity Internship
+- **LinkedIn:** [Mukta Ramdasi](https://linkedin.com/in/mukta-ramdasi-605350335)
+
 
